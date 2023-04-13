@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jordanjunior22/zortech-clone-app/static/css/main.d525ac95.css",
+    "main.js": "/jordanjunior22/zortech-clone-app/static/js/main.73efec27.js",
+    "static/js/787.8863d319.chunk.js": "/jordanjunior22/zortech-clone-app/static/js/787.8863d319.chunk.js",
+    "static/media/bg.png": "/jordanjunior22/zortech-clone-app/static/media/bg.fa94ab3162a96191762a.png",
+    "static/media/bg2.png": "/jordanjunior22/zortech-clone-app/static/media/bg2.a4abbd45ac294c5211c3.png",
+    "index.html": "/jordanjunior22/zortech-clone-app/index.html",
+    "main.d525ac95.css.map": "/jordanjunior22/zortech-clone-app/static/css/main.d525ac95.css.map",
+    "main.73efec27.js.map": "/jordanjunior22/zortech-clone-app/static/js/main.73efec27.js.map",
+    "787.8863d319.chunk.js.map": "/jordanjunior22/zortech-clone-app/static/js/787.8863d319.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d525ac95.css",
+    "static/js/main.73efec27.js"
+  ]
+}
